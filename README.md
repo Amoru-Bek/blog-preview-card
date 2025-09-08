@@ -82,7 +82,7 @@ Code snippets :
 ### Useful resources
 
 - [Free CSS tutorials whit W3schools](https://www.w3schools.com/Css/default.asp) - Which helped me creating the card.
-- [Bootstrap Framework]([https://www.example.com](https://getbootstrap.com/)) - An amazing Css Framework.
+- [Bootstrap Framework](https://getbootstrap.com/) - An amazing Css Framework.
 
 ## Author
 
